@@ -4,25 +4,13 @@ Um assistente inteligente desenvolvido com **Python + Streamlit + Groq API** par
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  /* Se preferir usar CSS em um arquivo separado ou na seção <style> */
-  .contorno-branco {
-    border: 5px solid white;
-    /* Adiciona uma borda sólida branca de 5 pixels */
-  }
-</style>
-</head>
-<body>
-
-<!-- Usando a classe CSS -->
-<div align="center">
-    <img src="arquivo1.png" alt="Descrição da imagem"  width="900" class="contorno-branco">
-</div>
-</body>
-</html>
+<table align="center" cellspacing="0" cellpadding="0" style="background:white; padding:5px;">
+  <tr>
+    <td>
+      <img src="arquivo1.PNG" width="900">
+    </td>
+  </tr>
+</table>
 
 
 
